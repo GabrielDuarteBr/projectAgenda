@@ -49,6 +49,7 @@ table th {
 }
 
 table td {
+    justify-content: flex-start;
     padding: 16px;
     text-align: center;
 }
